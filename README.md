@@ -2,15 +2,16 @@
 
 
 - 👀 I’m interested in various computing languages, my subjects of interest are
-        JAVA,
-        SQL,
-        PYTHON
+        Terraform, Python, JAVA, SQL
+
+- 🌱 I’m currently working as a GCP DevOps Engineer with over all 1.5 years of experience.
+-I primarily work on 
+        creating cloud infrastructure using Terraform 
+        writing writing Kubernetes manifests (YAML files) for deploying application images in Kubernetes
+        building CI/CD pipelines to automate the process
 
 
-- 🌱 I’m currently learning and enriching my skill set in various domains of computer science.
-
-
-- 💞️ I’m looking to collaborate on projects on JAVA or Python domain.
+- 💞️ I’m looking to collaborate on projects related to GCP, Python, Java
 
 
 CONTACT ME HERE
