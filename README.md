@@ -1,11 +1,11 @@
 - 👋 Hello there, I’m KISHALAY
 
-- I am Google Cloud certified Associate Cloud Engineer
+- I am Google Cloud certified Professional Cloud DevOps Engineer
 
 - 👀 I’m interested in various computing languages, my subjects of interest are
-        Cloud, Terraform, Kubernetes, Python, Linux
+        Cloud, Terraform, Kubernetes, Python, Computer networking
 
-- 🌱 I’m currently working as a GCP DevOps Engineer with over all 2+ years of experience.
+- 🌱 I’m currently working as a GCP DevOps Engineer with over 3 years of experience.
 -I primarily work on 
         creating cloud infrastructure using Terraform 
         configure Kubernetes manifests for deploying application images in Kubernetes by using Helm as package manager
