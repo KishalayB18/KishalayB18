@@ -25,9 +25,8 @@
 <h1 align="center">Github Stats</h1>
 
 <div align="center">  
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=kishalayb18&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
- </div> 
- 
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=kishalayb18&theme=highcontrast)
+ </div>  
 <img align="left" alt="Kishalay Github Stats" src="https://github-readme-stats.vercel.app/api?username=kishalayb18&&show_icons=true&theme=dark" width="50%" />
 <img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishalayb18&layout=compact&theme=dark" width="46%" />
 <br>
