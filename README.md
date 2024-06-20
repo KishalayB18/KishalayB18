@@ -5,30 +5,22 @@
 <a href="https://www.linkedin.com/in/connect-with-kishalay-bhattacharya"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:bhattacharyakishalay@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
-<h1 align="center">Work History</h1>
+<h1 align="left">Work History</h1>
 <a name="work histry"></a>
 <table>
   <tr>
     <td align="center">
       <a href="https://www.capgemini.com/">
-        <img src="https://cdn.worldvectorlogo.com/logos/capgemini-201x-logo-1.svg" width="100px;" alt="Capgemini"/><br />
-        <sub>
-          <b>Capgemini</b>
-        </sub>
-      </a><br />
+        <img src="https://cdn.worldvectorlogo.com/logos/capgemini-201x-logo-1.svg" width="100px;" alt="Capgemini"/><br />        
+      </a>
         <sub>
           August 2021 - March 2024
         </sub><br />        
-    </td>
-  </tr>
-  <tr>
+    </td>  
     <td align="center">
       <a href="https://www.hyland.com/en/company">
-        <img src="https://cdn.worldvectorlogo.com/logos/hyland-logo.svg" width="100px;" alt="Hyland"/><br />
-        <sub>
-          <b>Hyland</b>
-        </sub>
-      </a><br />
+        <img src="https://cdn.worldvectorlogo.com/logos/hyland-logo.svg" width="100px;" alt="Hyland"/><br />        
+      </a>
         <sub>
           March 2024 - Present
         </sub><br />        
