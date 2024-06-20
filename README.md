@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/connect-with-kishalay-bhattacharya"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:bhattacharyakishalay@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
-<h1 align="left">Work History</h1>
+<h2 align="left">Work History</h2>
 <a name="work histry"></a>
 <table>
   <tr>
@@ -28,7 +28,7 @@
   </tr>
 </table>  
 
-## Languages and Tools
+<h2 align="left">Languages and Tools</h2>
 <p>
         <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
         <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
