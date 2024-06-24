@@ -5,7 +5,30 @@
 <a href="https://www.linkedin.com/in/connect-with-kishalay-bhattacharya"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:bhattacharyakishalay@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
-### Languages and Tools
+<h2 align="left">Work Profile</h2>
+<a name="work profile"></a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.capgemini.com/">
+        <img src="https://cdn.worldvectorlogo.com/logos/capgemini-201x-logo-1.svg" width="100px;" alt="Capgemini"/><br />        
+      </a>
+        <sub>
+          August 2021 - March 2024
+        </sub><br />        
+    </td>  
+    <td align="center">
+      <a href="https://www.hyland.com/en/company">
+        <img src="https://cdn.worldvectorlogo.com/logos/hyland-logo.svg" width="100px;" alt="Hyland"/><br />        
+      </a>
+        <sub>
+          March 2024 - Present
+        </sub><br />        
+    </td>
+  </tr>
+</table>  
+
+<h2 align="left">Tools and Technology</h2>
 <p>
         <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
         <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
