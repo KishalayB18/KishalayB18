@@ -26,8 +26,8 @@
         </sub><br />        
     </td>
     <td align="center">
-      <a href="https://www.ford.com/en/company">
-        <img src="https://cdn.worldvectorlogo.com/logos/ford-logo.svg" width="100px;" alt="Ford"/><br />        
+      <a href="https://www.ford.com/">
+        <img src="https://cdn.worldvectorlogo.com/logos/ford-6.svg" width="100px;" alt="Ford"/><br />        
       </a>
         <sub>
           December 2024 - Present
