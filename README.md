@@ -22,10 +22,17 @@
         <img src="https://cdn.worldvectorlogo.com/logos/hyland-logo.svg" width="100px;" alt="Hyland"/><br />        
       </a>
         <sub>
-          March 2024 - Present
+          March 2024 - December 2024
         </sub><br />        
     </td>
-  </tr>
+    <td align="center">
+      <a href="https://www.ford.com/en/company">
+        <img src="https://cdn.worldvectorlogo.com/logos/ford-logo.svg" width="100px;" alt="Ford"/><br />        
+      </a>
+        <sub>
+          December 2024 - Present
+        </sub><br />        
+    </td>  </tr>
 </table>  
 
 <h2 align="left">Tools and Technology</h2>
